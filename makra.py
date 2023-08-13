@@ -1,5 +1,4 @@
-print("heeeeeeeeey bitches how ru")
-s=input("enter name of victim : ")
+s=input("enter name : ")
 a=0
 while a<10000:
   a=a+1
